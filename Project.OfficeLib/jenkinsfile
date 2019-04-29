@@ -1,0 +1,4 @@
+pipeline {
+    stage 'Build'
+    bat "\"C:/Program Files/dotnet/dotnet.exe\" build release \"Project.OfficeLib/Project.OfficeLib.sln\""
+}

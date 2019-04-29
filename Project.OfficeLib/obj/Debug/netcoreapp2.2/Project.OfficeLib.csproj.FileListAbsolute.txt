@@ -1,0 +1,14 @@
+D:\student\office-lib\project.officelib\bin\Debug\netcoreapp2.2\Project.OfficeLib.deps.json
+D:\student\office-lib\project.officelib\bin\Debug\netcoreapp2.2\Project.OfficeLib.runtimeconfig.json
+D:\student\office-lib\project.officelib\bin\Debug\netcoreapp2.2\Project.OfficeLib.runtimeconfig.dev.json
+D:\student\office-lib\project.officelib\bin\Debug\netcoreapp2.2\Project.OfficeLib.dll
+D:\student\office-lib\project.officelib\bin\Debug\netcoreapp2.2\Project.OfficeLib.pdb
+D:\student\office-lib\project.officelib\obj\Debug\netcoreapp2.2\Project.OfficeLib.csprojAssemblyReference.cache
+D:\student\office-lib\project.officelib\obj\Debug\netcoreapp2.2\Project.OfficeLib.csproj.CoreCompileInputs.cache
+D:\student\office-lib\project.officelib\obj\Debug\netcoreapp2.2\Project.OfficeLib.RazorAssemblyInfo.cache
+D:\student\office-lib\project.officelib\obj\Debug\netcoreapp2.2\Project.OfficeLib.RazorAssemblyInfo.cs
+D:\student\office-lib\project.officelib\obj\Debug\netcoreapp2.2\Project.OfficeLib.AssemblyInfoInputs.cache
+D:\student\office-lib\project.officelib\obj\Debug\netcoreapp2.2\Project.OfficeLib.AssemblyInfo.cs
+D:\student\office-lib\project.officelib\obj\Debug\netcoreapp2.2\Project.OfficeLib.RazorTargetAssemblyInfo.cache
+D:\student\office-lib\project.officelib\obj\Debug\netcoreapp2.2\Project.OfficeLib.dll
+D:\student\office-lib\project.officelib\obj\Debug\netcoreapp2.2\Project.OfficeLib.pdb
